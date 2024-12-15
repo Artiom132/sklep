@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_orders"
+        android:title="Lista zamówień"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_about"
+        android:title="O autorze"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_share"
+        android:title="Udostępnij koszyk"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_sms"
+        android:title="Wyślij SMS"
+        app:showAsAction="never" />
+</menu>
